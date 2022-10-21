@@ -50,7 +50,6 @@ public class BTPrint extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_b_t_print);
-
         // Create object of controls
         Button btnConnect = (Button) findViewById(R.id.btnConnect);
         Button btnDisconnect = (Button) findViewById(R.id.btnDisconnect);
