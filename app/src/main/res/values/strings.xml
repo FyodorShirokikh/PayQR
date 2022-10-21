@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">PaQR</string>
+    <string name="qr_code">qr_code</string>
+    <string name="logo">Logo</string>
+    <string name="name">Логин/E-mail</string>
+    <string name="password">Пароль</string>
+    <string name="pincode">Пин код</string>
+    <string name="enter_sum">Введите сумму</string>
+    <string name="dest">Выберите назначение платежа</string>
+    <string name="enter_your_name">Введите наименование вашего юр.лица(или ФИО)</string>
+    <string name="enter_your_acc">Введите номер расчетного(лицевого)счета</string>
+    <string name="enter_your_bankname">Введите название банка</string>
+    <string name="enter_your_bic">Введите БИК банка</string>
+    <string name="enter_your_correspAcc">Введите корр.счет</string>
+    <string name="enter_your_kpp">Введите КПП</string>
+    <string name="enter_your_payeeINN">Введите ИНН</string>
+    <string name="enter_your_Purpose">Введите назначение платежа</string>
+    <string name="enter_your_sum">0.00</string>
+    <string name="save_bank_details">Сохранить</string>
+    <string name="print_cheque">Распечатать чек</string>
+    <string name="generate_qr_code">Генерация QR Code</string>
+    <string name="enter">Вход</string>
+    <string name="card1">Карта 1</string>
+    <string name="NewCard">+</string>
+    <string name="EditCard">Редактировать</string>
+    <string name="Back">←</string>
+    <string name="enterpincode">Введите пин код</string>
+    <string name="ok">Ok</string>
+</resources>
