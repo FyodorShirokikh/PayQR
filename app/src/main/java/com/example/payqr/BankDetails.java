@@ -148,7 +148,6 @@ public class BankDetails extends AppCompatActivity {
 
             //String text_out = "PinCode=1111|Name=ООО СахаСтройСистема|PersonalAcc=40702810576000003190|BankName=ЯКУТСКОЕ ОТДЕЛЕНИЕ N8603 ПАО СБЕРБАНК|BIC=049805609|CorrespAcc=30101810400000000609|KPP=143501001|PayeeINN=1435327003";
             String text_out = "PinCode="+txtPinCode+"|Name="+txtName+"|PersonalAcc="+txtPersonalAcc+"|BankName="+txtBankName+"|BIC="+txtBIC+"|CorrespAcc="+txtCorrespAcc+"|KPP="+txtKPP+"|PayeeINN="+txtPayeeINN;
-            //String text_out = "PinCode=1111|Name=Татаринов Эдуард Аркадьевич|PersonalAcc=40817810800028162749|BankName=Tinkoff|BIC=044525974|CorrespAcc=30101810145250000974|KPP=773401001|PayeeINN=7710140679";
             //String text_out = "PinCode=1111|Name=Широких Федор Федорович|PersonalAcc=40817810176005410866|BankName=ЯКУТСКОЕ ОТДЕЛЕНИЕ N8603 ПАО СБЕРБАНК|BIC=049805609|CorrespAcc=30101810400000000609|KPP=143502001|PayeeINN=7707083893";
             //String text_out = "PinCode=1111|Name=ООО СахаСтройСистема|PersonalAcc=40702810576000003190|BankName=ЯКУТСКОЕ ОТДЕЛЕНИЕ N8603 ПАО СБЕРБАНК|BIC=049805609|CorrespAcc=30101810400000000609|KPP=143501001|PayeeINN=1435327003";
 
